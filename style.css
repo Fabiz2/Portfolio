@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+}
+
+
+header{
+    background-color: black;
+}
+
+section{
+    background-image: url(https://i.pinimg.com/474x/78/cf/a6/78cfa61c205c63ac60eba440c6296ffc.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
